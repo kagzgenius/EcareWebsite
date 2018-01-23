@@ -98,6 +98,8 @@ textarea {
    .bg-color {
      background-color: #ffecb3;
      border-radius: 0.5em;
+     z-index: 1;
+     opacity: 0.8;
 
    }
 
@@ -121,10 +123,11 @@ textarea {
    p {
      opacity: 0.8;
    }
+
    .page-footer {
      background-color: #0288d1;
-     opacity: 0.8;
      margin-top: 50px;
+     opacity: 0.8;
    }
 
    nav {
