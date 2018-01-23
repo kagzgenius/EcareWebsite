@@ -118,6 +118,15 @@ textarea {
      line-height: 4em;
    }
 
+   p {
+     opacity: 0.8;
+   }
+   .page-footer {
+     background-color: #0288d1;
+     opacity: 0.8;
+     margin-top: 50px;
+   }
+
    nav {
      background-color: #ffd54f;
      height: 66px;
@@ -125,10 +134,6 @@ textarea {
      width: auto;
    }
 
-   .page-footer {
-     background-color: #0288d1;
-     opacity: 0.8;
-   }
 
 
 /* ==========================================================================
