@@ -96,31 +96,26 @@ textarea {
     margin-left: 25px;
 }
 
-.bg-color {
-    background-color: #ffecb3;
-    opacity: 0.5;
-    z-index: -1;
-}
-
-.btn, img {
+.btn {
     border-radius: 1em;
 }
 
 .carousel-slider {
-    margin-left: 22%;
-    width: 56%;
+    margin-left: 23%;
+    width: 54%;
 }
 
 .container {
     width: 85%;
 }
 
-div>ol,div>ul {
-    line-height: 3.5em;
-}
+/* div>ol, div>ul{
+    line-height: 3em;
+    opacity: 0.8;
+} */
 
 p {
-    opacity: 0.8;
+  opacity: 0.8;
 }
 
 .page-footer {

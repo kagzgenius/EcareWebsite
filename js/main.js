@@ -1,9 +1,7 @@
 $(document).ready(function(){
-$('.carousel').carousel();
+$('.slider').slider({full_width: true});
 $('.button-collapse').sideNav({
     menuWidth: 230,
     draggable: true
 });
 });
-
-$('.carousel.carousel-slider').carousel({fullWidth: true, indicators: true});
