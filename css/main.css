@@ -91,56 +91,54 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-   .brand-logo {
-     margin-left: 25px;
-   }
 
-   .bg-color {
-     background-color: #ffecb3;
-     opacity: 0.5;
-     z-index: -1;
+.brand-logo {
+    margin-left: 25px;
+}
 
-   }
+.bg-color {
+    background-color: #ffecb3;
+    opacity: 0.5;
+    z-index: -1;
+}
 
-   .btn, img {
-     border-radius: 1em;
-   }
+.btn, img {
+    border-radius: 1em;
+}
 
-   .carousel-slider {
-     margin-left: 22%;
-     width: 56%;
-   }
+.carousel-slider {
+    margin-left: 22%;
+    width: 56%;
+}
 
-   .container {
-     width: 85%;
-   }
+.container {
+    width: 85%;
+}
 
-   ol div {
-     line-height: 4em;
-   }
+div>ol,div>ul {
+    line-height: 3.5em;
+}
 
-   p {
-     opacity: 0.8;
-   }
+p {
+    opacity: 0.8;
+}
 
-   .page-footer {
-     background-color: #0288d1;
-     margin-top: 50px;
-     opacity: 0.8;
-   }
+.page-footer {
+    background-color: #0288d1;
+    margin-top: 50px;
+    opacity: 0.8;
+}
 
-   .material-icons {
-     font-size: 30px;
-   }
+.material-icons {
+    font-size: 30px;
+}
 
-   nav {
-     background-color: #ffd54f;
-     height: 66px;
-     margin: 0;
-     width: auto;
-   }
-
-
+nav {
+    background-color: #ffd54f;
+    height: 66px;
+    margin: 0;
+    width: auto;
+}
 
 /* ==========================================================================
    Helper classes
